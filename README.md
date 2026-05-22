@@ -2,6 +2,17 @@
 
 A professional, interactive web application for real-time air quality and disease risk prediction, powered by machine learning and explainable AI. Visualize AQI and health risks on a map, search any city, and get actionable insights for public health awareness.
 
+
+---
+
+## 🎥 Live Demo
+
+
+
+🔗 [Live Demo](https://intelligent-air-quality-monitoring-disease-risk-assessment.streamlit.app/)
+
+---
+
 ---
 
 🎥 **Live Demo**
