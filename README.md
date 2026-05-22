@@ -13,7 +13,6 @@ A professional, interactive web application for real-time air quality and diseas
 
 ---
 
----
 
 🎥 **Live Demo**
 
